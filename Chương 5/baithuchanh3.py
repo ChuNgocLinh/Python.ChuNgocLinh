@@ -1,4 +1,3 @@
-# Sinh viên: Phạm Gia Khánh - MSSV: 20230797 - Lớp: DCCNTT14.2
 
 ten_file = 'demo_file1.txt'
 noi_dung_goc = 'Thuc \n hanh \n voi \n file\n IO\n'
