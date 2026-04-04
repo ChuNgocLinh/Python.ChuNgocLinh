@@ -1,4 +1,3 @@
-# Sinh viên: Phạm Gia Khánh - MSSV: 20230797 - Lớp: DCCNTT14.2
 
 # 1. Nhập thông tin từ bàn phím
 print("--- NHẬP THÔNG TIN CÁ NHÂN ---")
