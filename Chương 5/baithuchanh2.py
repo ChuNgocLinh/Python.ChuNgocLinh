@@ -1,4 +1,3 @@
-# Sinh viên: Phạm Gia Khánh - MSSV: 20230797 - Lớp: DCCNTT14.2
 
 ten_file = "bai2_output.txt"
 van_ban = input("Nhập đoạn văn bản cần ghi vào file: ")
