@@ -1,4 +1,3 @@
-# Sinh viên: Phạm Gia Khánh - MSSV: 20230797 - Lớp: DCCNTT14.2
 
 ten_file = "du_lieu.txt"
 n = int(input("Nhập số dòng n cần đọc: "))
