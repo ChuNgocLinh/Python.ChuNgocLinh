@@ -1,4 +1,3 @@
-# Sinh viên: Phạm Gia Khánh - MSSV: 20230797 - Lớp: DCCNTT14.2
 
 ten_file = 'demo_file2.txt'
 noi_dung_mau = 'Dem so luong tu xuat hien abc abc abc 12 12 it it dnu eaut'
