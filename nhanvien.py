@@ -26,5 +26,5 @@ nhan_vien_test.hien_thi_nhan_vien()
 
 print(nhan_vien_dev.dem)
 
-print(nhan_vien_dev.name)   # dòng này sẽ lỗi
+print(nhan_vien_dev.name)   
 print(nhan_vien_test.name)
