@@ -21,7 +21,7 @@ def xu_ly(text, bo_ma, mode):
         bo_ma = bo_ma_dao
 
     for ky_tu in text:
-        if ky_tu in bo_ma:
+        if ky_tu in bo_ma: 
             ket_qua = ket_qua + bo_ma[ky_tu]
         else:
             ket_qua = ket_qua + ky_tu

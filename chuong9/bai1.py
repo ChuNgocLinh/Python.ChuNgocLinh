@@ -11,11 +11,11 @@ class HocVien:
 
     # b) show info
     def show_info(self):
-        print("Họ tên:", self.ho_ten)
+        print("Họ tên:", self.ho_ten)    
         print("Ngày sinh:", self.ngay_sinh)
         print("Email:", self.email)
         print("Điện thoại:", self.dien_thoai)
-        print("Địa chỉ:", self.dia_chi)
+        print("Địa chỉ:", self.dia_chi)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
         print("Lớp:", self.lop)
 
     # c) change info (có giá trị mặc định)
